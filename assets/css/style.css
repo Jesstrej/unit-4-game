@@ -1,0 +1,55 @@
+body {
+    background-image: url("../images/Diamond.jpg");
+    background-position: center; 
+
+}
+
+
+
+h1 {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    display: inline-block;
+    padding: 25px 20px;
+    color: #FFFF00;
+    font-size: 45px;
+    font-weight: bold;
+    
+    }
+
+
+
+h2 {
+    color: #FFFF00;
+    font-size: 40px;
+    padding: 25px;
+    font-weight: bold;
+
+   
+}
+
+li {
+    padding: 10px;
+    width: 450px;
+    margin: auto;
+    color: orange;
+    font-weight: bold;
+
+}
+
+.col-sm-4 {
+
+color: #FFFF00;
+padding: 25px 200px;
+font-size: 25px;
+font-weight: bold;
+
+}
+
+.col-sm-3 {
+padding-bottom: 40px;
+}
+
+.crystal3 img{
+    height: 55px;
+
+}
